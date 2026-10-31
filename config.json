@@ -1,0 +1,87 @@
+{
+  "code": "TONGWON",
+  "title": "SMASH TONGWON",
+  "school": "동원대",
+  "fullName": "동원대학교",
+  "campusName": "동원대학교",
+  "tagline": "동원대를 부셔 (시험기간 스트레스 해소)",
+  "description": "동원대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 동원대학교 3D 화면과 SMASH TONGWON 제목",
+  "url": "https://hong-iron.github.io/SMASH-TONGWON/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 804530569
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.3281048,
+        127.4014526
+      ],
+      "n": "동원대학",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖에 있는 KD운송그룹 동원대영업소 버스 차고지 안에 버스들 사이로 놓인 작은 시설이라서 학교 건물로 볼 수 없다."
+    },
+    {
+      "at": [
+        37.3302188,
+        127.4033036
+      ],
+      "n": "동원대학",
+      "why": "항공사진에 없음 — 기숙사동(동원드림하우스) 앞 주차장 자리여서 항공사진에는 주차선과 차만 보이고 서 있는 건물이 없다."
+    }
+  ],
+  "look": {
+    "동원대학교 도서관": {
+      "style": "stone",
+      "wall": "#c9ccd0",
+      "glass": "#3c3f3a",
+      "frame": "#e9edf0"
+    },
+    "실습동-2": {
+      "style": "brick",
+      "wall": "#9a6e66",
+      "glass": "#3f4650",
+      "frame": "#e2e4e5"
+    },
+    "실습동-1": {
+      "style": "brick",
+      "wall": "#c98f82",
+      "glass": "#4d5a58",
+      "frame": "#eeeeec"
+    },
+    "대학본부": {
+      "style": "brick",
+      "wall": "#a8746a",
+      "glass": "#3e4a50",
+      "frame": "#e8eaea"
+    },
+    "기숙사": {
+      "style": "stone",
+      "wall": "#e3dfd6",
+      "glass": "#3a4248",
+      "frame": "#c5bfb0"
+    },
+    "기숙사동": {
+      "style": "dorm",
+      "wall": "#a2705f",
+      "glass": "#2f3a40",
+      "frame": "#e0e0de"
+    },
+    "생활관": {
+      "style": "brick",
+      "wall": "#8a5244",
+      "glass": "#3c5965",
+      "frame": "#e4e4e0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
